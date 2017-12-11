@@ -215,7 +215,7 @@ header {
 	text-align: justify;
 	width: 50%;
 	max-width: 900px;
-	min-width: 310px;
+	min-width: 300px;
 	margin: 0 auto;
 }
 .abstract-box:before {
