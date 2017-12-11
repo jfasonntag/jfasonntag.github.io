@@ -162,7 +162,7 @@ header {
 	padding-right: 0;
 	padding-left: 0;
 	width: 50%;
-	min-width: 320px;
+	min-width: 310px;
 	margin: 0 auto;
 	padding-bottom: 50px;
 }
@@ -215,7 +215,7 @@ header {
 	text-align: justify;
 	width: 50%;
 	max-width: 900px;
-	min-width: 320px;
+	min-width: 310px;
 	margin: 0 auto;
 }
 .abstract-box:before {
